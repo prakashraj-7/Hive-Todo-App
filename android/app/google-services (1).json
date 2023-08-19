@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563037993647",
+    "project_id": "ecommers---haxo",
+    "storage_bucket": "ecommers---haxo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563037993647:android:56492476edbfab4fe8f25a",
+        "android_client_info": {
+          "package_name": "com.example.es"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563037993647-fn0g2qotbhda5evvqf0rfjmslqt86obf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVzJhSBKEyp2WCiZTJkwXLG7i67O01Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563037993647-fn0g2qotbhda5evvqf0rfjmslqt86obf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
